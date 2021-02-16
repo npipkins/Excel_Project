@@ -30,4 +30,4 @@ The following excel actions were used: conditional formatting, formulas, text to
 
 This pivot table will analyze the initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
-* Create a stacked column pivot chart that can be filtered by country based on the table you have created
+* The stacked column pivot chart can be filtered by country based on the table created
