@@ -58,6 +58,11 @@ This pivot table will analyze the initial worksheet to determine the outcomes ba
 
 ![ ](images/BonusGoalStats.png)
 
-This table was created by using a pre-defined ranged and mulitple different formulas like countifs, lookups, algebraic equations, etc.
+This table was created by using a pre-defined range and mulitple different formulas like countifs, lookups, algebraic equations, etc.
 
 *  The line chart graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
+
+
+# Analysis
+
+
