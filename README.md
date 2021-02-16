@@ -14,3 +14,7 @@ The following excel actions were used: conditional formatting, formulas, text to
 
 
 ![ ](images/Q.png)
+The original dataset was manipulated to color certain cells based on predetermined conditions. Two new columns were created to perform math calculations, then one was also colored based on conditions. Category and Sub-Category needed their own columns and two date timestamps needed to be convertied for furture analysis. 
+
+
+![ ](images/CategoryPivot.png)
