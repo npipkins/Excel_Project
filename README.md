@@ -30,4 +30,34 @@ The following excel actions were used: conditional formatting, formulas, text to
 
 This pivot table will analyze the initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
-* The stacked column pivot chart can be filtered by country based on the table created
+* The stacked column pivot chart can be filtered by country based on the table created.
+
+
+## Sub-Category Pivot
+
+
+![ ](images/SubCategoryPivot.png)
+
+This pivot table will analyze the initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **sub-category**.
+
+* The stacked column pivot chart can be filtered by country and parent-category based on the table created.
+
+
+## Launch Date Pivot
+
+
+![ ](images/LaunchDatePivot.png)
+
+This pivot table will analyze the initial worksheet to determine the outcomes based on launch date.
+
+* The line pivot chart can be filtered by years and parent-category based on the table created.
+
+
+## Bonus Goal Stats
+
+
+![ ](images/BonusGoalStats.png)
+
+This table was created by using a pre-defined ranged and mulitple different formulas like countifs, lookups, algebraic equations, etc.
+
+*  The line chart graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
