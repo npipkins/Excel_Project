@@ -24,3 +24,7 @@ The original dataset was manipulated to color certain cells based on predetermin
 
 
 ![ ](images/CategoryPivot.png)
+
+This pivot table will analyze the initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
+
+* Create a stacked column pivot chart that can be filtered by country based on the table you have created
